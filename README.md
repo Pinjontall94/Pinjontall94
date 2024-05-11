@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
     - [ceilings](https://github.com/Pinjontall94/ceilings): A "[rustlings](https://rustlings.cool)-like" in C (feat. Ceiling Cat! 😺)
     - [Kthxbye](https://github.com/Pinjontall94/kthxbye): A cross-platform app to give you a heads up if your company is laying people off
-    - [Ailita](https://github.com/Pinjontall94/ailita): An exploratory AI framework written from scratch in GNU Guile and R^7^RS Scheme
+    - [Ailita](https://github.com/Pinjontall94/ailita): An exploratory AI framework written from scratch in GNU Guile and R<sup>7</sup>RS Scheme
 - 🌱 I’m currently learning:
     - Lisp (my first love, especially lisp-1's like Scheme and Clojure)
     - C & Zig
