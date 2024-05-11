@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Pinjontall94/Pinjontall94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+    - [ceilings](https://github.com/Pinjontall94/ceilings): A "[rustlings](https://rustlings.cool)-like" in C (feat. Ceiling Cat! 😺)
+    - [Kthxbye](https://github.com/Pinjontall94/kthxbye): A cross-platform app to give you a heads up if your company is laying people off
+    - [Ailita](https://github.com/Pinjontall94/ailita): An exploratory AI framework written from scratch in GNU Guile and R^7^RS Scheme
+- 🌱 I’m currently learning:
+    - Lisp (my first love, especially lisp-1's like Scheme and Clojure)
+    - C & Zig
+    - React Native
+    - Django ReST API design
+    - AI via PyTorch
+- 👯 I’m looking to collaborate on:
+    - Apps that empower workers and queer communities! ✊
+- 🤔 I’m looking for help with:
+    - This job market! If you know any of the above technologies and want to collab, hit me up on mastodon or linkedin (I don't bite! 😇)
+- 💬 Ask me about:
+    - Functional Programming
+    - Strong copyleft software
+    - Music and audio production
+- 📫 How to reach me:
+    - check out my [website](https://pinjontall94.github.io) (links at the top)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was a botanist before I worked in RISC-V 🌱
