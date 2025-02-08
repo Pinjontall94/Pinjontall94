@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on:
     - Apps that empower workers and queer communities! ✊
 - 🤔 I’m looking for help with:
-    - This job market! If you know any of the above technologies and want to collab, hit me up on mastodon or linkedin (I don't bite! 😇)
+    - This job market! If you know any of the above technologies and want to collab, hit me up on [mastodon](https://sfba.social/@pinjontall) or [linkedin](https://www.linkedin.com/in/sambjohnson94) (I don't bite! 😇)
 - 💬 Ask me about:
     - Functional Programming
     - Strong copyleft software
