@@ -6,10 +6,11 @@
     - [Ailita](https://github.com/Pinjontall94/ailita): An exploratory AI framework written from scratch in GNU Guile and R<sup>7</sup>RS Scheme
 - 🌱 I’m currently learning:
     - Lisp (my first love, especially lisp-1's like Scheme and Clojure)
-    - C & Zig
-    - React Native
-    - Django ReST API design
-    - AI via PyTorch
+    - C & C++
+    - RISC-V & x86 assembly
+    - Vanilla Web Dev
+    - Python ReST API design
+    - AI via ML from base principles
 - 👯 I’m looking to collaborate on:
     - Apps that empower workers and queer communities! ✊
 - 🤔 I’m looking for help with:
