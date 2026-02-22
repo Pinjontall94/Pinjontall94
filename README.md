@@ -1,25 +1,25 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on:
+- 🛠️ I’m currently working on:
+    - My masters degree in [agricultural bioinformatics](https://www.uni-giessen.de/en/study/courses/master/agrobioinformatics)
+    - A [chip8 interpreter in C](https://github.com/Pinjontall94/pls-chip8/)
     - [ceilings](https://github.com/Pinjontall94/ceilings): A "[rustlings](https://rustlings.cool)-like" in C (feat. Ceiling Cat! 😺)
-    - [Kthxbye](https://github.com/Pinjontall94/kthxbye): A cross-platform app to give you a heads up if your company is laying people off
-    - [Ailita](https://github.com/Pinjontall94/ailita): An exploratory AI framework written from scratch in GNU Guile and R<sup>7</sup>RS Scheme
 - 🌱 I’m currently learning:
-    - Lisp (my first love, especially lisp-1's like Scheme and Clojure)
-    - C & C++
+    - Lisp (my first love, especially older standards like Scheme and CL)
+    - C, C++, and some Objective-C via [GNUstep](https://www.gnustep.org)
     - RISC-V & x86 assembly
     - Vanilla Web Dev
-    - Python ReST API design
-    - AI via ML from base principles
+    - AI that actually knows a damn thing and isn't built on theft & boiling the ocean
+    - Weird stuff like Forths, Smalltalk, Plan9, and UXN
 - 👯 I’m looking to collaborate on:
     - Apps that empower workers and queer communities! ✊
 - 🤔 I’m looking for help with:
     - This job market! If you know any of the above technologies and want to collab, hit me up on [mastodon](https://sfba.social/@pinjontall) or [linkedin](https://www.linkedin.com/in/sambjohnson94) (I don't bite! 😇)
 - 💬 Ask me about:
-    - Functional Programming
+    - How lambdas and objects are the same
     - Strong copyleft software
     - Music and audio production
 - 📫 How to reach me:
-    - check out my [website](https://pinjontall94.github.io) (links at the top)
+    - check out my [website](https://pinjontall94.codeberg.page) (links at the top)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a botanist before I worked in RISC-V 🌱
